@@ -23,17 +23,19 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
-
+E-BOOK 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+IA Generativa ChatGPT para roteirização;
+IA Generativa Leonardo AI para criar a arte visual do e-book;
+Ferramenta Libre Office para edição.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Utilizei o "ChatGPT" para revisar minha pesquisa sobre IAs Generativas, estruturar o conteúdo e refinar minhas ideias. Por outro lado, o "Leonardo AI" foi usado para gerar imagens exclusivas para o nosso e-book. Para concluir, a montagem final foi feita no Libre Office, por ser uma ferramenta open-source para edição de texto.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O e-book apresenta um conteúdo envolvente e visualmente rico, demonstrando como as IAs Genativas podem ser uma ferramenta poderosa na educação e na disseminação do conhecimento.
 
+LINK PARA O E-BOOK AQUI(https://github.com/natanduarteal/lab-natty-or-not/blob/main/exemplos/Desafio%20DIO.pdf)
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
 ```
