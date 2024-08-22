@@ -35,7 +35,9 @@ Utilizei o "ChatGPT" para revisar minha pesquisa sobre IAs Generativas, estrutur
 ## 🚀 Resultados
 O e-book apresenta um conteúdo envolvente e visualmente rico, demonstrando como as IAs Genativas podem ser uma ferramenta poderosa na educação e na disseminação do conhecimento.
 
-LINK PARA O E-BOOK AQUI(https://github.com/natanduarteal/lab-natty-or-not/blob/main/exemplos/Desafio%20DIO.pdf)
+
+**[LINK PARA O E-BOOK AQUI](https://github.com/natanduarteal/lab-natty-or-not/blob/main/exemplos/Desafio%20DIO.pdf)**
+
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
 ```
